@@ -1,5 +1,12 @@
 
 
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
+    url('../images/hero-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 h1{
     font-family: "Petrona", system-ui;
      font-style: normal;
